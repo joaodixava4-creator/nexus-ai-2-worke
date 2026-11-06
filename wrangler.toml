@@ -1,0 +1,6 @@
+name = "nexus-ai-2-worke"
+main = "worker.js"
+compatibility_date = "2026-11-05"
+
+[ai]
+binding = "AI"

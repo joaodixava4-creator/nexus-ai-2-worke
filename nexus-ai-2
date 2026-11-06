@@ -1,0 +1,1 @@
+const MODEL = "@cf/qwen/qwen2.5-coder-32b-instruct";
